@@ -3,14 +3,15 @@
 # Favorite apps for dock
 apps=(
 	"Alacritty.desktop"
-	"WhatsApp.desktop"
-	"spotify.desktop"
 	"md.obsidian.Obsidian.desktop"
+	"brave-browser.desktop"
+	"spotify.desktop"
+	"discord.desktop"
+	"org.gnome.Nautilus.desktop"
+	"org.gnome.World.Secrets.desktop"
 	"Activity.desktop"
-	"Docker.desktop"
 	"Omakub.desktop"
 	"org.gnome.Settings.desktop"
-	"org.gnome.Nautilus.desktop"
 )
 
 # Array to hold installed favorite apps
